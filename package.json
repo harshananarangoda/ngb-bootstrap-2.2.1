@@ -101,7 +101,7 @@
     "karma-sauce-launcher": "^1.2.0",
     "karma-sourcemap-loader": "^0.3.7",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^2.0.9",
     "prismjs": "^1.12.2",
     "raw-loader": "^0.5.1",
