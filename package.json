@@ -47,7 +47,7 @@
   "homepage": "https://github.com/ng-bootstrap/ng-bootstrap#readme",
   "dependencies": {
     "@angular/common": "6.0.0",
-    "@angular/core": "6.0.0",
+    "@angular/core": "11.0.5",
     "@angular/forms": "6.0.0",
     "natives": "^1.1.6",
     "rxjs": "6.0.0"
